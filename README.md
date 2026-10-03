@@ -103,4 +103,4 @@ Python, TensorFlow/Keras, OpenCV, NumPy, scikit-learn, Matplotlib
 
 ## Author
 
-Your Name · [GitHub](https://github.com/your-username)
+Your Name · [SHAGUN UPADHYAY](https://github.com/ShagunUpadhyay)
